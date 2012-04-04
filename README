@@ -1,0 +1,5 @@
+Bodies of Words
+
+This application requires you have twitter4j for Processing, OpenNI, SimpleOpenNI for Processing, and Processing in order to work.
+
+It is required you have Twitter authentication keys if you want to use that functionality, otherwise just circumvent the twitter code.
